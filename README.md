@@ -1,26 +1,24 @@
 ## Oi eu sou a Thácio Helmer, designer gráfico e futuro programador!
- ![Thacio GitHub stats](https://github-readme-stats.vercel.app/api?username=thaciohelmer&show_icons=true&theme=radical)
 <div align="space-betwen">
   <a href="https://github.com/thaciohelmer">
- 
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaciohelmer&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thaciohelmer&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaciohelmer&layout=compact&theme=radical"/>
 </div>
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Thacio-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thacio-CSS" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thacio-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thacio-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="right" alt="Thacio-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/sbQL2I5.png" />
+  <img align="right" alt="Thacio-pic" height="150" style="border-radius:50px;" src="https://imgur.com/J6VM7lI.png" />
 </div>
   
   ##
  
-<div> 
+<div align="center"> 
   <a href="https://instagram.com/thaciohelmer" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <!--<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:thaciohelmer@hotmail.com"><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/th%C3%A1cio-helmer-55739a221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/thaciohelmer/thaciohelmer/blob/output/github-contribution-grid-snake.svg)
- 
+  <img align="center" src="https://github.com/thaciohelmer/thaciohelmer/blob/output/github-contribution-grid-snake.svg"/>
 </div>
