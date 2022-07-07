@@ -1,8 +1,8 @@
 ## Oi eu sou a Thácio Helmer, designer gráfico e futuro programador!
-<div align="center">
+<div style="display: inline_block" align="center">
   <a href="https://github.com/thaciohelmer">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thaciohelmer&show_icons=true&theme=codeSTACKr"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaciohelmer&layout=compact&theme=codeSTACKr"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=thaciohelmer&show_icons=true&theme=codeSTACKr"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaciohelmer&layout=compact&theme=codeSTACKr"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Thacio-HTML" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
