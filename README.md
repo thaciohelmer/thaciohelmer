@@ -1,4 +1,4 @@
-## Oi eu sou a Thácio Helmer, designer gráfico e futuro programador!
+## Oi eu sou Thácio Helmer, designer gráfico e futuro programador!
 <div style="display: inline_block" align="center">
   <a href="https://github.com/thaciohelmer">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=thaciohelmer&show_icons=true&theme=codeSTACKr"/>
