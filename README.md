@@ -4,7 +4,7 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=thaciohelmer&show_icons=true&theme=codeSTACKr"/>
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaciohelmer&layout=compact&theme=codeSTACKr"/>
 </div>
-<div style="display: inline_block" align="left">
+<div style="display: inline_block" align="left"><br>
   <img align="center" alt="Thacio-HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thacio-CSS" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thacio-Js" height="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
