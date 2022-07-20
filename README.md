@@ -1,15 +1,15 @@
 ## Oi eu sou Thácio Helmer, designer gráfico e futuro programador!
 <div style="display: inline_block" align="center">
   <a href="https://github.com/thaciohelmer">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=thaciohelmer&show_icons=true&theme=codeSTACKr"/>
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaciohelmer&layout=compact&theme=codeSTACKr"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=thaciohelmer&show_icons=true&theme=dark"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaciohelmer&layout=compact&theme=dark"/>
 </div>
 <div style="display: inline_block" align="left"><br>
   <img align="center" alt="Thacio-HTML" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Thacio-CSS" height="40px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thacio-Js" height="40px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Thacio-Js" height="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Thacio-CSharp" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" alt="Thacio-CSharp" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
   <img align="right" alt="Thacio-pic" height="150px" style="" src="https://imgur.com/zYUIhYM.png" />
 </div>
   
