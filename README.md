@@ -5,7 +5,7 @@
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaciohelmer&layout=compact&theme=outrun"/>
 </div>
 <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Thacio-HTML" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> |
+  <img align="center" margin="10" alt="Thacio-HTML" height="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> |
   <img align="center" alt="Thacio-CSS" height="40px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> |
   <img align="center" alt="Thacio-Js" height="40px"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> |
   <img align="center" alt="Thacio-DotNet" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" /> |
