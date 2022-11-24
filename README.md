@@ -1,8 +1,8 @@
 <h1 align="center">Oi eu sou Thácio Helmer, e sou programador!</h1>
 <br>
 <div style="display: inline_block" align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=thaciohelmer&show_icons=true&theme=codeSTACKr"/>&ensp;
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaciohelmer&layout=compact&theme=codeSTACKr"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=thaciohelmer&show_icons=true&theme=shades-of-purple"/>&ensp;
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaciohelmer&layout=compact&theme=shades-of-purple"/>
 </div>
 
 ##
