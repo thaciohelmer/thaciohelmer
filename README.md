@@ -1,4 +1,4 @@
-<h1 align="center">Oi eu sou Thácio Helmer, e sou programador!</h1>
+<h1 align="center">Thácio Helmer</h1>
 <br>
 <div style="display: inline_block" align="center">
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=thaciohelmer&show_icons=true&theme=shades-of-purple"/>&ensp;
