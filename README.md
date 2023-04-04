@@ -30,9 +30,9 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=thaciohelmer&&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=thaciohelmer&&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thaciohelmer&theme=shades-of-purple&hide_border=false)<br/>
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=thaciohelmer&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/thaciohelmer/github-readme-stats)
+[![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thaciohelmer&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/thaciohelmer/github-readme-stats)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=thaciohelmer&icon=8&color=8)](https://visitcount.itsvg.in)
