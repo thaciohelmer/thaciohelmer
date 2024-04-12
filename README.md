@@ -1,11 +1,7 @@
 # 💫 About Me:
 👩‍💻 I'm currently working at E&L Produções de Software Ltda<br>
 📚 Studying:<br> 
-* Computer Science at Estácio
 * Analysis And System Development at Multivix<br>
-
-💜 I love technology and studying about<br>
-⚡ Gamer when you have time
 
 
 ## 🌐 Socials:
