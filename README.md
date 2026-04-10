@@ -1,6 +1,6 @@
 # 💫 About Me:
 👩‍💻 I'm currently working at E&L Produções de Software Ltda<br>
-📚 Studying Analysis And System Development at Multivix
+📚 Graduated in Analysis and Systems Development at Multivix
 
 
 ## 🌐 Socials:
